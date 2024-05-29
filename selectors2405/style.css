@@ -1,0 +1,21 @@
+img {
+    width: 300px;
+    background-color: aqua;
+}
+
+.SRHPlayer {
+    background-color:red;
+}
+
+.Punjabplayer {
+background-color: blue;
+}
+#abhi {
+    border: 5px solid;
+background-color: red;
+}
+
+#klrahul {
+    border: 7px gray;
+    background-color: brown;
+}
